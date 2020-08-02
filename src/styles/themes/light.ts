@@ -6,6 +6,8 @@ export default {
     secundary: '#9C69E2',
     tertiary: '#F063B8',
 
+    backgroundTertiary: 'rgba(240, 99, 184, 15%)',
+
     background: '#F6FAFD',
 
     fontPrimaryColor: '#4B5D68',
