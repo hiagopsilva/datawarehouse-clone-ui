@@ -4,6 +4,7 @@ import { Container } from './styles';
 
 import Header from '../../components/Header';
 import HomeComponent from '../../components/Home';
+import Features from '../../components/Features';
 
 const Home: React.FC = () => {
   return (
@@ -11,6 +12,7 @@ const Home: React.FC = () => {
       <Header />
 
       <HomeComponent />
+      <Features />
     </Container>
   );
 };
