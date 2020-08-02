@@ -38,7 +38,7 @@ const Header: React.FC = () => {
       <ThemeContainer>
         <FiMoon size={24} color="#4B5D68" />
 
-        <button>
+        <button type="button">
           <h1>Request Demo</h1>
           <FiArrowRight size={20} color="#9C69E2" />
         </button>

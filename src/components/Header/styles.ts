@@ -10,7 +10,6 @@ export const Container = styled.div`
   align-items: center;
 
   width: 100%;
-  padding: 25px 120px 0px;
 `;
 
 export const Nav = styled.div`
