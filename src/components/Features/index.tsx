@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { FiArrowRight } from 'react-icons/fi';
 
 import { Container, Header, Card, Content, Footer } from './styles';
